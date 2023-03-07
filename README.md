@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonia</h1>
 <h3 align="center">I’m currently learning at 42 school (almost at the end of the common core)</h3>
 
-- 🔭 I’m currently working on [Inception](https://github.com/HammoucheSonia/inception.git)
+- 🔭 I’m currently working on [ft_irc](https://github.com/HammoucheSonia/ft_irc.git)
 
 - 🌱 I’m currently learning **DApps Blockchain**
 
